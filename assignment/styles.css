@@ -1,0 +1,15 @@
+.top header{
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+}
+.middle main{
+    padding: 1em;
+    background-color: grey;   
+}
+
+body{
+    margin: 0px;
+    background-image: url('./record.png');
+    background-repeat: repeat;
+}
